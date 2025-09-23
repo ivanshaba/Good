@@ -24,11 +24,16 @@ const navigationItems = [
     label: "OUR WORK",
     href: "/work",
     submenu: [
-      { label: "Conservation Programs", href: "/programs" },
-      { label: "Community Empowerment", href: "/community" },
+      { label: "Conservation Programs", href: "/work/faqs" },
+      { label: "Community Empowerment", href: "/work/faqs" },
       { label: "Tree0", href: "/work/faqs" },
+      { label: "Tree Planting", href: "/work/faqs" },
+      { label: "Jubiya CRFw", href: "/work/faqs" },
+      { label: "Cocoa Pilot", href: "/work/faqs" },
+      { label: "Timber Value Chain", href: "/work/faqs" },
       { label: "Operational Areas", href: "/work/areas" },
       { label: "Tree0", href: "/work/faqs" },
+      { label: "FAQs", href: "/work/faqs" },
     ],
   },
   {
