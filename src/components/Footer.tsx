@@ -16,7 +16,7 @@ export const Footer = () => {
           {/* Organization Info */}
           <div className="space-y-6">
             <div className="flex items-center space-x-3">
-            <img style={{width:'190px', height:'70px'}} src="/mylogo.png" alt="" />
+            <img style={{width:'190px', height:'70px'}} src="/lo.PNG" alt="" />
 
               {/* <div className="w-12 h-12 rounded-full bg-primary flex items-center justify-center">
                 <span className="text-primary-foreground font-bold text-lg">GF</span>

@@ -24,8 +24,11 @@ const navigationItems = [
     label: "OUR WORK",
     href: "/work",
     submenu: [
+      { label: "Conservation Programs", href: "/programs" },
+      { label: "Community Empowerment", href: "/community" },
+      { label: "Tree0", href: "/work/faqs" },
       { label: "Operational Areas", href: "/work/areas" },
-      { label: "FAQs", href: "/work/faqs" },
+      { label: "Tree0", href: "/work/faqs" },
     ],
   },
   {
@@ -37,7 +40,8 @@ const navigationItems = [
     ],
   },
   {
-    label: "PARTNERS",
+    // label: "PARTNERS",
+    label: "WORK WITH US",
     href: "/partners",
     submenu: [
       { label: "Donate", href: "/partners/donate" },
@@ -85,8 +89,8 @@ export const Navigation = () => {
           >
             <Link to="/">
               <img
-                style={{ width: "190px", height: "70px" }}
-                src="/mylogo.png"
+                style={{ width: "170px", height: "60px" }}
+                src="/lo.PNG"
                 alt="Good Forests Logo"
               />
             </Link>

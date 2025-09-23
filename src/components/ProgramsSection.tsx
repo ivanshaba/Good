@@ -53,7 +53,7 @@ export const ProgramsSection = () => {
           }`}
         >
           <h2 className="text-4xl lg:text-5xl font-bold text-primary mb-6">
-            Empowering Farmers and Forests
+            OUR APPROACH
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             Our comprehensive approach combines technology, community engagement, 

@@ -89,13 +89,26 @@ export const HeroSection = () => {
               }`}
               style={{ transitionDelay: contentVisible ? '200ms' : '0ms' }}
             >
-              ⏳ The Carbon Clock is ticking, and fast. At today’s
+
+              Unite with us to restore damaged landscapes and fight climate change!
+              Partnering with farmers, we plant trees to enhance ecosystems, boost 
+              rural economies, and foster climate resilience.
+              {/* ⏳ The Carbon Clock is ticking, and fast. At today’s
                pace of emissions, the world is closing in on a 1.5 °C 
                rise in global temperatures. Beyond this threshold lies
                 the risk of irreversible tipping points, cascading disasters,
-                 and climate systems we can no longer control.
+                 and climate systems we can no longer control. */}
             </p>
+
+            {/* <p>
+              Unite with us to restore damaged landscapes and fight climate change!
+              Partnering with farmers, we plant trees to enhance ecosystems, boost 
+              rural economies, and foster climate resilience.
+            </p>
+
             
+             */}
+             
             <p 
               className={`text-lg lg:text-xl text-white font-bold leading-relaxed max-w-3xl transition-all duration-1000 ease-out ${
                 contentVisible ? 'translate-y-0 opacity-100' : 'translate-y-8 opacity-0'
@@ -105,6 +118,11 @@ export const HeroSection = () => {
               {/* Using cutting-edge monitoring, we track every tree's growth and capture carbon, 
               delivering transparent, verifiable impact. Together, let's create thriving forests that 
               benefit both people and the natural world. */}
+
+
+               The Carbon Clock is ticking, and fast. At today’s
+               pace of emissions, the world is closing in on a 1.5 °C 
+               rise in global temperatures. 
             </p>
           </div>
           
