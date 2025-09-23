@@ -48,10 +48,7 @@ const AboutVision = () => {
                 </div>
                 <h2 className="text-4xl lg:text-5xl font-bold text-foreground mb-8">Our Vision</h2>
                 <p className="text-xl text-muted-foreground max-w-4xl mx-auto leading-relaxed">
-                  A Uganda where forests and communities thrive together in harmony, creating a 
-                  sustainable future where environmental conservation and human prosperity are 
-                  inseparably linked, ensuring that future generations inherit a world of abundant 
-                  forests and empowered communities.
+                  Good Forests for Climate Solutions
                 </p>
               </div>
 
@@ -62,10 +59,7 @@ const AboutVision = () => {
                 </div>
                 <h2 className="text-4xl lg:text-5xl font-bold text-foreground mb-8">Our Mission</h2>
                 <p className="text-xl text-muted-foreground max-w-4xl mx-auto leading-relaxed">
-                  To protect, restore, and sustainably manage Uganda's forest ecosystems while 
-                  empowering local communities through education, capacity building, and the 
-                  creation of forest-based sustainable livelihoods that benefit both people and 
-                  the environment.
+                  Empowering Farmers Through Reforestaion and responsible value chain.
                 </p>
               </div>
 
