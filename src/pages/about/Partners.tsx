@@ -12,20 +12,23 @@ const AboutPartners = () => {
       title: "Government Partners",
       description: "Official partnerships with government agencies and ministries",
       partners: [
-        "Ministry of Water and Environment",
-        "Uganda Wildlife Authority", 
-        "National Forest Authority",
-        "Local Government Councils"
+        "National Forestry Authority (NFA)",
+        "Ministry of Forests, Lands, and Natural Resource Operations", 
+        "National Environment Management Authority",
+        "FAO"
       ]
     },
     {
       title: "International Organizations",
       description: "Global partnerships for conservation and development",
       partners: [
-        "World Wildlife Fund (WWF)",
-        "UN Environment Programme",
-        "African Development Bank",
-        "EU Forest Law Enforcement"
+        "FAO",
+        "Fairventures worldwide"
+
+        // "World Wildlife Fund (WWF)",
+        // "UN Environment Programme",
+        // "African Development Bank",
+        // "EU Forest Law Enforcement"
       ]
     },
     {
