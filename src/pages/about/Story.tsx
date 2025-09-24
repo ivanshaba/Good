@@ -1,7 +1,7 @@
 import { Navigation } from "@/components/Navigation";
 import { Footer } from "@/components/Footer";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
-import aboutStoryHeroBg from "@/assets/forest.jpg";
+import aboutStoryHeroBg from "@/assets/A farmer holding a seedling in the nursery.png";
 
 const AboutStory = () => {
   const { ref: titleRef, isVisible: titleVisible } = useScrollReveal();
@@ -42,42 +42,42 @@ const AboutStory = () => {
               <div className="prose prose-lg mx-auto text-muted-foreground">
                 <h2 className="text-3xl font-bold text-foreground mb-6">A Vision Born from Necessity</h2>
                 <p className="leading-relaxed mb-6">
-                  Good Forests Foundation Uganda was born from a deep understanding that Uganda's forests 
-                  are not just natural resources, but the foundation of life for millions of people. 
-                  Our story began when our founders witnessed firsthand the devastating effects of 
-                  deforestation on local communities and ecosystems.
+                  GFU (Good Forests Foundation Uganda) builds on the legacy of Fairventures Worldwide (FVW), which was founded in Stuttgart in 2013 on the belief that “good forests are climate solutions.” Today, GFU continues FVW’s vision in Uganda, Good Forests are Climate Solutions , under the mission of empowering farmers through reforestation and responsible value chains.
+Since launching its Uganda program in 2018, GFU has tackled the challenges of one of the world’s youngest and fastest-growing populations, where the demand for fuelwood, timber, and farmland drives alarming deforestation. Operating from the Timber Innovation Centre rooftop at Crown House in Kampala, we work closely with 12 local partner nurseries to raise and supply high-quality seedlings and fruit trees.
+
+On 1st August  2025, we officially transitioned from FVW to GFU. This evolution allowed us to deepen our focus on community-led reforestation, agroforestry innovations, and climate resilience strategies tailored to Uganda’s unique challenges and potentials. Today, GFU is dedicated to creating thriving forests, resilient communities, and a sustainable future for generations to come.
                 </p>
                 
-                <h2 className="text-3xl font-bold text-foreground mb-6 mt-12">The Founding Moment</h2>
-                <p className="leading-relaxed mb-6">
+                {/* <h2 className="text-3xl font-bold text-foreground mb-6 mt-12">The Founding Moment</h2> */}
+                {/* <p className="leading-relaxed mb-6">
                   In 2018, our founders embarked on a journey across Uganda's forest landscapes, 
                   meeting with communities whose lives were intimately connected to the forests. 
                   They saw families struggling as their traditional sources of livelihood disappeared 
                   with the trees. They witnessed the loss of biodiversity and the growing challenges 
                   of climate change.
-                </p>
+                </p> */}
                 
-                <h2 className="text-3xl font-bold text-foreground mb-6 mt-12">Building Partnerships</h2>
+                {/* <h2 className="text-3xl font-bold text-foreground mb-6 mt-12">Building Partnerships</h2>
                 <p className="leading-relaxed mb-6">
                   From these encounters, we learned that successful conservation requires more than 
                   just protecting trees—it requires empowering people. We began building partnerships 
                   with local communities, understanding their needs, and developing programs that 
                   could provide sustainable livelihoods while protecting forests.
-                </p>
+                </p> */}
                 
-                <h2 className="text-3xl font-bold text-foreground mb-6 mt-12">Today and Tomorrow</h2>
+                {/* <h2 className="text-3xl font-bold text-foreground mb-6 mt-12">Today and Tomorrow</h2>
                 <p className="leading-relaxed mb-6">
                   Today, Good Forests Foundation Uganda stands as a testament to what's possible 
                   when conservation and community development work hand in hand. We've planted 
                   thousands of trees, empowered hundreds of families, and protected thousands 
                   of hectares of forest land.
-                </p>
+                </p> */}
                 
-                <p className="leading-relaxed">
+                {/* <p className="leading-relaxed">
                   Our story continues to unfold with every tree planted, every family empowered, 
                   and every partnership formed. We're not just conserving forests—we're building 
                   a sustainable future for Uganda and its people.
-                </p>
+                </p> */}
               </div>
             </div>
           </div>

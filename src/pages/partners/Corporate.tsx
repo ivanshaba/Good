@@ -1,7 +1,7 @@
 import { Navigation } from "@/components/Navigation";
 import { Footer } from "@/components/Footer";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
-import partnersCorporateHeroBg from "@/assets/partners-corporate-hero-bg.jpg";
+import partnersCorporateHeroBg from "@/assets/Hoima-29.png";
 
 const PartnersCorporate = () => {
   const { ref: titleRef, isVisible: titleVisible } = useScrollReveal();

@@ -9,7 +9,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Separator } from "@/components/ui/separator";
 import { CreditCard, Shield, Heart } from "lucide-react";
 import { useState } from "react";
-import donateBg from "@/assets/forest.jpg";
+import donateBg from "@/assets/Happy farmer with a seedling.jpg";
 
 
 const PartnersDonate = () => {
