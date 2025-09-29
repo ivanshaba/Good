@@ -91,8 +91,8 @@ export const Footer = () => {
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="w-5 h-5 text-accent" />
-                <a href="tel:+256700000000" className="text-white/80 hover:text-accent transition-colors">
-                  +256 700 000 000
+                <a href="tel:+256754458384" className="text-white/80 hover:text-accent transition-colors">
+                  256 754 458 384
                 </a>
               </div>
             </div>

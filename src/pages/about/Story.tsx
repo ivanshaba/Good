@@ -40,14 +40,24 @@ const AboutStory = () => {
               contentVisible ? 'translate-y-0 opacity-100' : 'translate-y-12 opacity-0'
             }`}>
               <div className="prose prose-lg mx-auto text-muted-foreground">
-                <h2 className="text-3xl font-bold text-foreground mb-6">A Vision Born from Necessity</h2>
+                <h2 className="text-3xl font-bold text-foreground mb-6">We Are Practical Dreamers!</h2>
                 <p className="leading-relaxed mb-6">
-                  GFU (Good Forests Foundation Uganda) builds on the legacy of Fairventures Worldwide (FVW), which was founded in Stuttgart in 2013 on the belief that “good forests are climate solutions.” Today, GFU continues FVW’s vision in Uganda, Good Forests are Climate Solutions , under the mission of empowering farmers through reforestation and responsible value chains.
-Since launching its Uganda program in 2018, GFU has tackled the challenges of one of the world’s youngest and fastest-growing populations, where the demand for fuelwood, timber, and farmland drives alarming deforestation. Operating from the Timber Innovation Centre rooftop at Crown House in Kampala, we work closely with 12 local partner nurseries to raise and supply high-quality seedlings and fruit trees.
-
-On 1st August  2025, we officially transitioned from FVW to GFU. This evolution allowed us to deepen our focus on community-led reforestation, agroforestry innovations, and climate resilience strategies tailored to Uganda’s unique challenges and potentials. Today, GFU is dedicated to creating thriving forests, resilient communities, and a sustainable future for generations to come.
+                  GFU (Good Forests Foundation Uganda) builds on the legacy of Fairventures Worldwide (FVW), which was founded in Stuttgart 
+                  in 2013 on the belief that “good forests are climate solutions.” Today, GFU continues FVW’s vision in Uganda, empowering 
+                  farmers through reforestation and responsible value chains.
+                   Since launching its Uganda program in 2018, GFU has tackled the challenges of one of the world’s youngest and fastest-growing populations, 
+                   where the demand for fuelwood, timber, and farmland drives alarming deforestation. Operating from the Timber Innovation Center rooftop at Crown House in Kampala, we work closely with 12 local partner nurseries to raise and supply high-quality seedlings and fruit trees.
                 </p>
-                
+
+
+
+                <p className="leading-relaxed mb-6">
+                  On 1st August  2025, we officially transitioned from FVW to GFU. 
+                  This evolution allowed us to deepen our focus on community-led reforestation, 
+                  agroforestry innovations, and climate resilience strategies tailored to Uganda’s 
+                  unique challenges and potentials. Today, GFU is dedicated to creating thriving forests,
+                   resilient communities, and a sustainable future for generations to come.
+                </p>
                 {/* <h2 className="text-3xl font-bold text-foreground mb-6 mt-12">The Founding Moment</h2> */}
                 {/* <p className="leading-relaxed mb-6">
                   In 2018, our founders embarked on a journey across Uganda's forest landscapes, 

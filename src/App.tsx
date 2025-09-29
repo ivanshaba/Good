@@ -24,6 +24,9 @@ import ResourcesEducation from "./pages/resources/Education";
 import PartnersDonate from "./pages/partners/Donate";
 import PartnersOpportunities from "./pages/partners/Opportunities";
 import PartnersCorporate from "./pages/partners/Corporate";
+import WorkCocoa from "./pages/work/Cocoa";
+import WorkJubia from "./pages/work/Jubia";
+import WorkTimber from "./pages/work/Timber";
 
 const queryClient = new QueryClient();
 
@@ -52,8 +55,11 @@ const App = () => (
           {/* Work Subpages */}
           <Route path="/work/conservation" element={<WorkConservation />} />
           <Route path="/work/community" element={<WorkCommunity />} />
+          <Route path="/work/cocoa" element={<WorkCocoa />} />
           <Route path="/work/treeo" element={<WorkTreeo />} />
           <Route path="/work/areas" element={<WorkAreas />} />
+          <Route path="/work/jubia" element={<WorkJubia />} />
+          <Route path="/work/timber" element={<WorkTimber />} />
           <Route path="/work/faqs" element={<WorkFaqs />} />
           
           {/* Resources Subpages */}

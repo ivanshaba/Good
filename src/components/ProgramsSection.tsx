@@ -18,7 +18,7 @@ const programs = [
     description: "Working directly with farmers and local communities to build sustainable livelihoods through forest conservation.",
     features: ["Farmer training", "Livelihood support", "Capacity building"],
     color: "bg-accent/10 hover:bg-accent/20",
-    image: "/education.JPG",
+    image: "/heads.JPG",
   },
   {
     icon: Monitor,
@@ -34,7 +34,7 @@ const programs = [
     description: "Addressing climate change through scalable forest restoration and carbon sequestration projects.",
     features: ["Carbon sequestration", "Climate resilience", "Global impact"],
     color: "bg-secondary/20 hover:bg-secondary/30",
-    image: "/basin.jpg",
+    image: "/hands.png",
   },
 ];
 
