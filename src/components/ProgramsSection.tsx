@@ -26,7 +26,7 @@ const programs = [
     description: "Cutting-edge monitoring technology that tracks tree growth, carbon capture, and environmental impact in real-time.",
     features: ["Real-time monitoring", "Carbon tracking", "Impact verification"],
     color: "bg-forest-glow/10 hover:bg-forest-glow/20",
-    image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=300&fit=crop&crop=center",
+    image: "https://drive.google.com/file/d/1j_zBYn5g8DK-p6MUjDate7iTHYBSdl2O/view?usp=share_link",
   },
   {
     icon: Globe,
@@ -34,7 +34,7 @@ const programs = [
     description: "Addressing climate change through scalable forest restoration and carbon sequestration projects.",
     features: ["Carbon sequestration", "Climate resilience", "Global impact"],
     color: "bg-secondary/20 hover:bg-secondary/30",
-    image: "https://images.unsplash.com/photo-1569163139394-de4e5f43e4e3?w=400&h=300&fit=crop&crop=center",
+    image: "assets/Hoima-29.png",
   },
 ];
 
