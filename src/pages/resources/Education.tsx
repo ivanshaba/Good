@@ -1,7 +1,7 @@
 import { Navigation } from "@/components/Navigation";
 import { Footer } from "@/components/Footer";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
-import resourcesEducationHeroBg from "@/assets/cheered woman planting a tree.jpg";
+import resourcesEducationHeroBg from "@/assets/basin.jpg";
 
 const ResourcesEducation = () => {
   const { ref: titleRef, isVisible: titleVisible } = useScrollReveal();

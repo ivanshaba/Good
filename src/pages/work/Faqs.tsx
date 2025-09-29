@@ -2,7 +2,7 @@ import { Navigation } from "@/components/Navigation";
 import { Footer } from "@/components/Footer";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
-import workFaqsHeroBg from "@/assets/A farmer holding a seedling in the nursery.png";
+import workFaqsHeroBg from "@/assets/green.jpg";
 
 const WorkFaqs = () => {
   const { ref: titleRef, isVisible: titleVisible } = useScrollReveal();

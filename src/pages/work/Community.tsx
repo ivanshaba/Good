@@ -2,7 +2,7 @@ import { Navigation } from "@/components/Navigation";
 import { Footer } from "@/components/Footer";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
 import { Users, GraduationCap, Coins, Home } from "lucide-react";
-import workCommunityHeroBg from "@/assets/Aerial view of Ndejje restoration area.jpg";
+import workCommunityHeroBg from "@/assets/view.jpg";
 
 const WorkCommunity = () => {
   const { ref: titleRef, isVisible: titleVisible } = useScrollReveal();

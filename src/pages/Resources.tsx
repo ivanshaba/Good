@@ -3,7 +3,7 @@ import { Footer } from "@/components/Footer";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
 import { Button } from "@/components/ui/button";
 import { ArrowRight, FileText, BookOpen } from "lucide-react";
-import resourcesHeroBg from "@/assets/Cheerfull Monitor Stretches out hand as she captures tree data..png";
+import resourcesHeroBg from "@/assets/basin.jpg";
 
 const Resources = () => {
   const { ref: titleRef, isVisible: titleVisible } = useScrollReveal();

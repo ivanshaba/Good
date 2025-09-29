@@ -10,7 +10,7 @@ const programs = [
     description: "Protecting and restoring critical forest ecosystems through scientific monitoring and community engagement.",
     features: ["Forest restoration", "Biodiversity protection", "Ecosystem monitoring"],
     color: "bg-primary/10 hover:bg-primary/20",
-    image: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=400&h=300&fit=crop&crop=center",
+    image: "/plant.JPG",
   },
   {
     icon: Heart,
@@ -18,7 +18,7 @@ const programs = [
     description: "Working directly with farmers and local communities to build sustainable livelihoods through forest conservation.",
     features: ["Farmer training", "Livelihood support", "Capacity building"],
     color: "bg-accent/10 hover:bg-accent/20",
-    image: "https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=400&h=300&fit=crop&crop=center",
+    image: "/education.JPG",
   },
   {
     icon: Monitor,
@@ -26,7 +26,7 @@ const programs = [
     description: "Cutting-edge monitoring technology that tracks tree growth, carbon capture, and environmental impact in real-time.",
     features: ["Real-time monitoring", "Carbon tracking", "Impact verification"],
     color: "bg-forest-glow/10 hover:bg-forest-glow/20",
-    image: "https://drive.google.com/file/d/1j_zBYn5g8DK-p6MUjDate7iTHYBSdl2O/view?usp=share_link",
+    image: "/selfe.png",
   },
   {
     icon: Globe,
@@ -34,7 +34,7 @@ const programs = [
     description: "Addressing climate change through scalable forest restoration and carbon sequestration projects.",
     features: ["Carbon sequestration", "Climate resilience", "Global impact"],
     color: "bg-secondary/20 hover:bg-secondary/30",
-    image: "assets/Hoima-29.png",
+    image: "/basin.jpg",
   },
 ];
 
