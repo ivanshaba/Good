@@ -1,6 +1,8 @@
 import { Users, Leaf, Target } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
+import { Link } from "react-router-dom";
+
 import { useState } from "react";
 
 export const IntroductionSection = () => {
@@ -127,7 +129,8 @@ export const IntroductionSection = () => {
                 size="lg"
                 className="mt-6 bg-primary hover:bg-primary-dark text-primary-foreground px-8 py-3 font-medium hover-lift"
               >
-                Discover Our Impact
+                <Link to="/work">Discover Our Impact</Link>
+                
               </Button>
             </div>
 

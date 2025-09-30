@@ -2,7 +2,7 @@ import { Navigation } from "@/components/Navigation";
 import { Footer } from "@/components/Footer";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
-import workTimberHeroBg from "@/assets/green.jpg";
+import workTimberHeroBg from "@/assets/TIC WORKSHOP.webp";
 
 const WorkTimber = () => {
   const { ref: titleRef, isVisible: titleVisible } = useScrollReveal();

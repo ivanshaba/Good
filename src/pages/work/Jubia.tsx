@@ -1,7 +1,7 @@
 import { Navigation } from "@/components/Navigation";
 import { Footer } from "@/components/Footer";
 import { useScrollReveal } from "@/hooks/useScrollReveal";
-import workJubiaHeroBg from "@/assets/smile.png";
+import workJubiaHeroBg from "@/assets/JUBIYA.jpg";
 
 const WorkJubia = () => {
   const { ref: titleRef, isVisible: titleVisible } = useScrollReveal();

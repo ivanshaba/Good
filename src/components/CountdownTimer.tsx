@@ -1,4 +1,6 @@
 import { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
+
 
 interface TimeUnit {
   value: number;
@@ -95,7 +97,10 @@ export const CountdownTimer = () => {
           ))}
         </p>
         <button className="bg-accent hover:bg-accent/90 text-forest-dark px-10 py-4 rounded-full font-bold text-xl transition-all duration-300 hover:scale-110 hover-lift animate-bounce-in animate-delay-500 group shadow-lg">
-          <span className="group-hover:animate-pulse">Take action now!</span>
+          <span className="group-hover:animate-pulse">
+            {/* Take action now! */}
+            <Link to="/partners/donate">Take action now!</Link>
+            </span>
         </button>
       </div>
     </div>
