@@ -59,7 +59,7 @@ const AboutPartners = () => {
     {
       title: "Academic Institutions",
       description: "Research and educational partnerships",
-      partners: ["Makerere University", "Uganda Christian University"],
+      partners: ["Makerere University","St.Simon Vocational Institute","Kasese Youth Polytechnic Vocational School", "Ndejje University"],
     },
     {
       title: "Community Organizations",
@@ -68,7 +68,10 @@ const AboutPartners = () => {
         "Uganda Community Forest Association",
         "Women's Tree Planting Cooperatives",
         "Youth Environmental Groups",
-        "Traditional Leader Councils",
+        "Eco Agric Uganda",
+        "Kikandwa Environmental Association",
+        "People and Nature Rwenzori Mountain",
+        "NAWAD",
       ],
     },
   ];

@@ -25,9 +25,9 @@ const navigationItems = [
     href: "/work",
     submenu: [
       { label: "Tree Planting", href: "/work/conservation" },
-      { label: "Jubiya CRF", href: "/work/jubia" },
-      { label: "Jubiya FMNR", href: "/work/fmnr" },
-      { label: "Jubiya Pilot", href: "/work/cocoa" },
+      { label: "Jubiya project", href: "/work/jubia" },
+      // { label: "Jubiya FMNR", href: "/work/fmnr" },
+      { label: "cocoa Pilot", href: "/work/cocoa" },
       // { label: "Timber Value Chain", href: "/work/Timber" },
       { label: "Operational Areas", href: "/work/areas" },
       { label: "Tree0", href: "/work/TreeO" },
